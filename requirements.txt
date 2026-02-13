@@ -1,3 +1,11 @@
 Django>=4.2
-djangorestframework
+djangorestframework>=3.14
 djangorestframework_simplejwt
+psycopg2-binary>=2.9  # if you use Postgres
+python-dotenv>=1.0  # if you workwith environment variables
+redis
+requests
+django-environ==0.11.2
+django-cors-headers==4.9.0
+whitenoise>=6.0
+gunicorn
