@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.py[cod]
+Notas.txt
+*.pyc
+.env
+.env.docker
+cookies.txt
+db.sqlite3
+htmlcov/
+.coverage
